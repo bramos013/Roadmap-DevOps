@@ -1,7 +1,3 @@
-# kubernetes
-# Ignore all files in the kubernetes directory
-
-# except for the following:
 !*.yaml
 !*.yml
 !*.json
